@@ -1,0 +1,27 @@
+
+        #shape {
+            background-color: blue;
+            height: 200px;
+            width: 200px;
+            position: relative;
+            left: 20px;
+            top: 40px;
+            border-radius: 0%;
+            display: none;
+        }
+
+        .strong {
+            font-weight: bold;
+        }
+
+        #timer {
+            width: 200px;
+            float: left;
+            font-family: Courier New;
+        }
+
+       .fastestTimeSection {
+           float: left;
+            font-family: Courier New;
+
+       } 
